@@ -1,0 +1,9 @@
+﻿  main.c
+C:\Users\admin\Downloads\LBYARCHx86_64_c\testproject\testproject\main.c(20,21): warning C4047: 'function': 'double *' differs in levels of indirection from 'double (*)[5]'
+C:\Users\admin\Downloads\LBYARCHx86_64_c\testproject\testproject\main.c(20,21): warning C4024: 'arrMulAdd': different types for formal and actual parameter 3
+C:\Users\admin\Downloads\LBYARCHx86_64_c\testproject\testproject\main.c(20,27): warning C4047: 'function': 'double *' differs in levels of indirection from 'double (*)[5]'
+C:\Users\admin\Downloads\LBYARCHx86_64_c\testproject\testproject\main.c(20,27): warning C4024: 'arrMulAdd': different types for formal and actual parameter 4
+C:\Users\admin\Downloads\LBYARCHx86_64_c\testproject\testproject\main.c(20,33): warning C4047: 'function': 'double *' differs in levels of indirection from 'double (*)[5]'
+C:\Users\admin\Downloads\LBYARCHx86_64_c\testproject\testproject\main.c(20,33): warning C4024: 'arrMulAdd': different types for formal and actual parameter 5
+main.obj : error LNK2001: unresolved external symbol arrMulAdd
+C:\Users\admin\Downloads\LBYARCHx86_64_c\testproject\x64\Release\testproject.exe : fatal error LNK1120: 1 unresolved externals
