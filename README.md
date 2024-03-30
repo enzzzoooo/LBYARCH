@@ -1,5 +1,8 @@
 # LBYARCH MP#2 - DAXPY(A*X+Y)
 
+By: Ambrosio, Carlos Felipe Q.
+    Ambrosio, Lorenzo Aivin F.
+
 Write the kernel in (1) C program and (2) an x86-64 assembly language.  The kernel is to perform DAXPY (A*X + Y) function.
 
 **Input**: Scalar variable n (integer) contains the length of the vector;  Scalar variable A is a double-precision float. Vectors X, Y and Z are double-precision float.
