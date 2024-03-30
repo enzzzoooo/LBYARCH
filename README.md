@@ -61,6 +61,6 @@ As can be seen from the above output, the kernel in C is 29 instructions long, w
 
 We can also check the graph for each iteration and vector length.
 
-![graph](20240330_121321_image.png)
+![graph](image-4.png)
 
 From the above results, we can conclude that the x86-64 ASM is generally faster than the compiled C code. This is because of the fewer instructions required for the assembly code, with it only taking 37 bytes worth of instructions, while the C code took 128 bytes worth of instructions.

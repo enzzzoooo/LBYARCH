@@ -10,6 +10,7 @@ plot((1:30), iterC, 'r-',(1:30), iterASM,'b-');
 title("C vs ASM for N = 2\^28");
 xlabel("Iteration");
 ylabel("Time (seconds)");
+legend({"C", "x86-64 ASM"})
 hold off
 
 
